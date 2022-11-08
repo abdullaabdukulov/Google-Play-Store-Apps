@@ -23,3 +23,5 @@ They remember me telling them I'm not a programmer, He's also an old programmer,
 they told me:
 I invite my vp marketing and vp designer to a meeting, formatting will be a real plus and be prepared to go back to the code if they have further questions.
 </p>
+
+<p>I answered these questions in my <a href="https://medium.com/@abduqulovabdulla3108/my-mobapp-studio-599b00478cc7">blog post.</a></p>
