@@ -1,5 +1,4 @@
 # Google-Play-Store-Apps
 This project analyzed the data set of our most used Google Play store app. And it's very interesting.
 
-
-<img width="2048" alt="image" src="https://user-images.githubusercontent.com/95611906/200525160-ab037b60-6542-4f68-ab18-3fb852409a8a.png">
+<img width="952" alt="Снимок экрана 2022-11-07 в 18 40 42" src="https://www.apple.com/newsroom/images/product/app-store/Apple_App_Store_10th_anniversary_07102018_big.gif.large.gif">
